@@ -1,7 +1,5 @@
-# Superstore-tableau-analysis
-Interactive Tableau dashboard analyzing Superstore sales performance, trends, and KPIs
-
 # Superstore Performance Dashboard – Lateefat Adebayo
+Interactive Tableau dashboard analyzing Superstore sales performance, trends, and KPIs
 
 ## Project Overview
 This project presents an interactive Tableau dashboard built to explore sales performance across the Superstore dataset. The goal was to better understand how the business is performing in terms of revenue, profitability, and regional trends, and to highlight key patterns that could support decision-making.
